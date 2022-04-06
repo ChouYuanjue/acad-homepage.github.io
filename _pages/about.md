@@ -19,12 +19,9 @@ redirect_from:
 
 I am studying for a master's degree in mathematics at Mellon College of Science, Carnegie Mellon University at present.
 
-My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
