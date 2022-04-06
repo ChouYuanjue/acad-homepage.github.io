@@ -25,15 +25,13 @@ My research interests include algebraic geometry, category theory and some basic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">YH-DIE</div><img src='images/IMG_20220406_124238.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[The Mappping of the Main Functions and Different Variationsof YH-DIE](/docs/yhdie-oup.pdf)
+- YH-DIE must have continuity . Given the basic algebraic clusters of homogeneous configurations,we can get the basic three equations:
+![](http://i.upmath.me/svg/%5Cbegin%7Barray%7D%7Bl%7D%0A%09%09%7B%5Cmathop%7B%5Cint%7D%5Cnolimits_%7B0%7D%5Cnolimits%5E%7B%7Bx%7D_%7Bi%7D%7D%7B%5Cfrac%7B%7BG%7D%5Cleft(%7B%7Bx%7D_%7Bi%7D%5Cmathrm%7B%2C%7Ds%7D%5Cright)%7D%7B%7B%5Cleft(%7B%7Bx%7D_%7Bi%7D%5Cmathrm%7B%7B-%7D%7D%7Bs%7D%7D%5Cright)%7D%5E%7B%5Cmathit%7B%5Calpha%7D%7D%7D%5Cmathrm%7B%5Cvarphi%7D%5Cleft(%7Bs%7D%5Cright)%7Bds%7D%7D%5Cmathrm%7B%7B%3D%7D%7D%7Bf%7D%5Cleft(%7B%7Bx%7D_%7Bi%7D%7D%5Cright)%7D%5C%20%3B%5C%0A%09%09%7B%5Cfrac%7B%5Cmathrm%7B%5Cpartial%7D%7D%7B%5Cmathrm%7B%5Cpartial%7D%7Bx%7D_%7Bi%7D%7D%5Cleft(%7B%5Cfrac%7B%7B%5Cmathrm%7B%5Cpartial%7D%7D_%7B%7Bx%7D_%7Bi%7D%7DG%7D%7B%5Csqrt%7B%7B1%7D%5Cmathrm%7B%7B%2B%7D%7D%7B%5Cleft%7C%7B%5Cmathrm%7B%5Cnabla%7D%7BG%7D%7D%5Cright%7C%7D%5E%7B2%7D%7D%7D%7D%5Cright)%5Cmathrm%7B%7B%3D%7D%7D%7B0%7D%7D%5C%20%3B%20%5C%0A%09%09%7B%7Bi%7D%5Cmathrm%7B%7B%3D%7D%7D%5Cmathop%7B%5Csum%7D%5Climits_%7B%7Bx%7D_%7Bi%7D%5Cmathrm%7B%7B%3D%7D%7D%7B1%7D%7D%5Climits%5E%7B%5Cmathrm%7B%5Cinfty%7D%7D%7B%5Carccos%5Chspace%7B0.33em%7D%5Cmathrm%7B%5Cvarphi%7D%5Cleft(%7B%7Bx%7D_%7Bi%7D%7D%5Cright)%7D%5Cmathrm%7B%7B%3D%7D%7D%7Bf%7D%5Cleft(%7B%5Cfbox%7B%24%7BYuh%7D%24%7D%7D%5Cright)%7D%0A%09%09%5Cend%7Barray%7D)
+YH-DIE has become a fusion point and access point in the fields of algebraic geometry and partial differential equations, and its mapping on multidimensional algebraic clusters or manifolds is very special. The minimal surface equation is a special case.
 </div>
 </div>
 
