@@ -22,6 +22,65 @@ I am studying for a master's degree in mathematics at Mellon College of Science,
 My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=EfVwYVwAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📜 Notes
+
+<style type="text/css">
+h4.course {
+    font-weight: normal;
+    margin-top: 0.3em;
+    margin-bottom: 0em;
+}
+
+.note-additional {
+    color: #444;
+}
+
+.extras {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.unavailable, .extras a {
+    display: inline-block;
+
+    padding: 0.1em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+
+    text-align: center;
+
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    flex-basis: 20%;
+    flex-grow: 0;
+}
+.unavailable {
+    color: #888;
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px) {
+    .unavailable, .extras a {
+        flex-basis: 20%;
+    }
+    .extras a.long {
+        flex-basis: 40%;
+    }
+    .extras {
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .unavailable, .extras a {
+        flex-basis: 33%;
+    }
+    .extras {
+        flex-wrap: wrap;
+    }
+</style>
+
+<div class='extras'><a href='/note/N-20210204.pdf'>N-20210204</a><a href='/note/N-20210206.pdf'>N-20210206</a><a href='/note/N-20210207.pdf'>N-20210207</a><a href='/note/N-20210804.pdf'>N-20210804</a><a href='/note/N-20210806.pdf'>N-20210806</a></div>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">YH-DIE</div><img src='images/IMG_20220406_124238.png' alt="sym" width="100%"></div>
