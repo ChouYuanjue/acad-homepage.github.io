@@ -34,6 +34,13 @@ YH-DIE has become a fusion point and access point in the fields of algebraic geo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">MPGG</div><img src='images/IMG_20220406_124425.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[MODELS OF PEN-PL GAUSSIAN GAMES IN NON-COOPERATIVECOMMUNICATION](/MPGG-first_draft.pdf)
+- Consider non-cooperative pen games where bothplayers act strategically and heavily influence eachother. In spam and malware detection, players exploit randomization to obfuscate malicious data and increase their chances of evading detection at test time. The result shows Pen-PL Games have a probability distribution that approximates a Gaussian distribution according to some probability distribution defined over the respective strategy set. With quadratic cost functions and multivariate Gaussian processes, evolving according to first order autoregressive models, we show that Pen-PL "smooth" curve signaling rules are optimal. Finally, we showthat computing a socially optimal Pen-PL networkplacement is NP-hard and that this result holds forall P-PL-G distributions.
+</div>
+</div>
 # 📖 Educations
 - *2020 - present*, MSc in Mathematical Science, Mellon College of Science at CMU
 - *2016 - 2020*, BSc in Mathematics, Nanjing University of Aeronautics and Astronautics
