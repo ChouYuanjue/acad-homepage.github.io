@@ -21,7 +21,7 @@ I am studying for a master's degree in mathematics at Mellon College of Science,
 
 My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=EfVwYVwAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+# 📜 Notes
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">YH-DIE</div><img src='images/IMG_20220406_124238.png' alt="sym" width="100%"></div>
@@ -38,9 +38,19 @@ YH-DIE has become a fusion point and access point in the fields of algebraic geo
 - *2020 - present*, MSc in Mathematical Science, Mellon College of Science at CMU
 - *2016 - 2020*, BSc in Mathematics, Nanjing University of Aeronautics and Astronautics
 
+# 📈 Skills
+- **Matlab & Mathematica**
+
+I can skillfully solve problems and sort out data through Matlab and MMA,especially Matlab.
+
+- **Python & Lua**
+
+I *used to* be an amateur Python programmer and use it to write basic scripts. I also wrote a Qbot by Lua through [mirai](https://github.com/mamoe/mirai).
+
+- **Russian**
+
+I can speak (подделка) Russian. Социализм с чжунготэсэ хао ва!
+
 # 💬 Invited Talks
 - *2022.01*, How we consider a "new" set theory –An introduction to ETCS -*MCS Math*
 - *2021.07*, A friendly introduction to Boolean algebra -*Geek College* [\[video\]](https://b23.tv/thMyvm9)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
