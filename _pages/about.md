@@ -111,7 +111,7 @@ YH-DIE has become a fusion point and access point in the fields of algebraic geo
 <div class='paper-box-text' markdown="1">
 
 [Introduction to Arithmetic Graph Theory](/agt-intro.pdf)
-- A introduction to arithmetic graph theory.
+- An introduction to arithmetic graph theory.
 ISBN 978-1-6780-9204-7
 </div>
 </div>
