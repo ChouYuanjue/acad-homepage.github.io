@@ -34,17 +34,13 @@ YH-DIE has become a fusion point and access point in the fields of algebraic geo
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2020 - present*, MSc in Mathematical Science, Mellon College of Science at CMU
 - *2016 - 2020*, BSc in Mathematics, Nanjing University of Aeronautics and Astronautics
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.01*, How we consider a "new" set theory –An introduction to ETCS -*MCS Math*
+- *2021.07*, A friendly introduction to Boolean algebra -*Geek College* [\[video\]](https://b23.tv/thMyvm9)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
