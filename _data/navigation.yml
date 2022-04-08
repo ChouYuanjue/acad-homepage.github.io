@@ -3,14 +3,18 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Notes"
+    url: "/#-notes"
 
   - title: "Publications"
     url: "/#-publications"
 
 
-
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "skills"
+    url: "/#-skills"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
