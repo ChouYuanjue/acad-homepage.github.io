@@ -42,6 +42,15 @@ YH-DIE has become a fusion point and access point in the fields of algebraic geo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AGT</div><img src='images/pt2022_04_08_12_58_30.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Introduction to Arithmetic Graph Theory](/agt-intro.pdf)
+- A introduction to arithmetic graph theory.
+ISBN 978-1-6780-9204-7
+</div>
+</div>
+
 # 📖 Educations
 - *2020 - present*, MSc in Mathematical Science, Mellon College of Science at CMU
 - *2016 - 2020*, BSc in Mathematics, Nanjing University of Aeronautics and Astronautics
