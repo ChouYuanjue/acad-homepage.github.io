@@ -91,6 +91,7 @@ Below are the notes I took during my spare time. None of this is formal or offic
 </div>
 <div class='extras'>
 <a href='/note/N-20220409.pdf'>N-20220409</a>
+</div>
 
 # 📝 Publications 
 
