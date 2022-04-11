@@ -19,7 +19,7 @@ redirect_from:
 
 I am studying for a master's degree in mathematics at Mellon College of Science, Carnegie Mellon University at present.
 
-My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/badge/citations-33-blue"></a>).
+My research interests include algebraic geometry, category theory and some basic mathematical branches. I am committed to providing a friendly introduction to higher mathematics to non-majors. I have published several papers (informally) <a href='https://scholar.google.com/citations?user=EfVwYVwAAAAJ'><img src="https://img.shields.io/badge/citations-33-blue"></a>.
 
 # 📜 Notes
 
@@ -83,9 +83,14 @@ Below are the notes I took during my spare time. None of this is formal or offic
 
 <div class='extras'>
 <a href='/note/N-20210204.pdf'>N-20210204</a><a href='/note/N-20210206.pdf'>N-20210206</a><a href='/note/N-20210207.pdf'>N-20210207</a><a href='/note/N-20210804.pdf'>N-20210804</a><a href='/note/N-20210806.pdf'>N-20210806</a>
-<a href='/note/N-20220131.pdf'>N-20220131</a><a href='/note/N-20220315.pdf'>N-20220315</a><a href='/note/N-20220319.pdf'>N-20220319</a><a href='/note/N-20220320.pdf'>N-20220320</a>
+<a href='/note/N-20220131.pdf'>N-20220131</a>
+</div>
+<div class='extras'>
+<a href='/note/N-20220315.pdf'>N-20220315</a><a href='/note/N-20220319.pdf'>N-20220319</a><a href='/note/N-20220320.pdf'>N-20220320</a>
 <a href='/note/N-20220321.pdf'>N-20220321</a><a href='/note/N-20220323.pdf'>N-20220323</a><a href='/note/N-20220405.pdf'>N-20220405</a>
 </div>
+<div class='extras'>
+<a href='/note/N-20220409.pdf'>N-20220409</a>
 
 # 📝 Publications 
 
