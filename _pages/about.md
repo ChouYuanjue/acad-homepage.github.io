@@ -90,7 +90,8 @@ Below are the notes I took during my spare time. None of this is formal or offic
 <a href='/note/N-20220321.pdf'>N-20220321</a><a href='/note/N-20220323.pdf'>N-20220323</a><a href='/note/N-20220405.pdf'>N-20220405</a>
 </div>
 <div class='extras'>
-<a href='/note/N-20220409.pdf'>N-20220409</a><a href='/note/N-20220411.pdf'>N-20220411</a><a href='/note/N-20220412.pdf'>N-20220412</a>
+<a href='/note/N-20220407.pdf'>N-20220407</a><a href='/note/N-20220409.pdf'>N-20220409</a><a href='/note/N-20220411.pdf'>N-20220411</a>
+<a href='/note/N-20220412.pdf'>N-20220412</a>
 </div>
 
 # 📝 Publications 
